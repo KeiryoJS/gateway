@@ -81,7 +81,7 @@
   dependencies:
     tiny-typed-emitter "^2.1.0"
 
-"@keiryo/eslint-config@^1.0.1":
+"@keiryo/eslint-config@1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@keiryo/eslint-config/-/eslint-config-1.0.1.tgz#ed3ad2d3932087121fd5fa9ccd23b266677841fe"
   integrity sha512-unKVKRXH5HOGaZUalv4CJ8FMPo8w57fdiRZ4MqlRIweDkXtrVhFHZG92DwvbvKSXiDnJ+f+Uw/T//uhDQGWXdA==
@@ -150,7 +150,7 @@
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
-"@types/ws@^8.2.0":
+"@types/ws@8.2.0":
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/@types/ws/-/ws-8.2.0.tgz#75faefbe2328f3b833cb8dc640658328990d04f3"
   integrity sha512-cyeefcUCgJlEk+hk2h3N+MqKKsPViQgF5boi9TTHSK+PoR9KWBb/C5ccPcDyAqgsbAYHTwulch725DV84+pSpg==
@@ -2374,7 +2374,7 @@ time-zone@^1.0.0:
   resolved "https://registry.yarnpkg.com/time-zone/-/time-zone-1.0.0.tgz#99c5bf55958966af6d06d83bdf3800dc82faec5d"
   integrity sha1-mcW/VZWJZq9tBtg73zgA3IL67F0=
 
-tiny-typed-emitter@^2.1.0:
+tiny-typed-emitter@2.1.0, tiny-typed-emitter@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/tiny-typed-emitter/-/tiny-typed-emitter-2.1.0.tgz#b3b027fdd389ff81a152c8e847ee2f5be9fad7b5"
   integrity sha512-qVtvMxeXbVej0cQWKqVSSAHmKZEHAvxdF8HEUBFWts8h+xEo5m/lEiPakuyZ3BnCBjOD8i24kzNOiOLLgsSxhA==
