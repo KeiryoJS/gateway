@@ -8,4 +8,4 @@
 
 ---
 
-copyright 2020 - 2021 &copy; neocord team & contributors
+copyright 2020 - 2021 &copy; keiryo team & contributors
