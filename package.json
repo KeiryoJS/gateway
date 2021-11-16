@@ -24,7 +24,7 @@
         "README.md"
     ],
     "devDependencies": {
-        "@ava/typescript": "2.0.0",
+        "@ava/typescript": "3.0.1",
         "@keiryo/eslint-config": "^1.0.1",
         "@types/node": "16.9.6",
         "@types/ws": "^8.2.0",
