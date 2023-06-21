@@ -38,7 +38,7 @@
     "dependencies": {
         "@keiryo/common": "^1.0.2",
         "@keiryo/rest": "^1.0.1",
-        "discord-api-types": "^0.23.1",
+        "discord-api-types": "^0.37.0",
         "tslib": "^2.3.1",
         "ws": "^8.2.2"
     }
